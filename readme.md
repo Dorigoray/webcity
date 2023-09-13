@@ -19,7 +19,6 @@ LICENSE: [MIT](license.md)
 10. [git log](./log.md)
 
 
-
-
-                                                                    Jason Long. http://git-scm.com/downloads/logos,
-                                                                    license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+                                
+Jason Long. http://git-scm.com/downloads/logos,
+license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
