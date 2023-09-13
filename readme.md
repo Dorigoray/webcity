@@ -6,9 +6,9 @@ LICENSE: [MIT](license.md)
 
 
 ---
-### Содержание:
-1. 
-2. [git add](./add.md) 
+### Contents:
+1. [git add](./add.md)
+2. [git push](./push.md) 
 
 
 Jason Long. http://git-scm.com/downloads/logos,
