@@ -7,7 +7,7 @@ LICENSE: [MIT](license.md)
 
 ---
 ### Contents:
-1. [git add](./add.md)
+1. <span style="color:black">[git add](./add.md)</span>
 2. [git push](./push.md) 
 3. [git status](./status.md)
 4. [git rm](./rm.md)
