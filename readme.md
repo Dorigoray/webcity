@@ -16,6 +16,8 @@ LICENSE: [MIT](license.md)
 7. [git mv](./mv.md)
 8. [git clean](./clean.md)
 9. [git merge](./merge.md)
+10. [git log](./log.md)
+
 
 Jason Long. http://git-scm.com/downloads/logos,
 license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
