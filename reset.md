@@ -1,6 +1,6 @@
 [Contents](./readme.md)
 ---
-## git reset
+## **git reset**
 
 ## git reset - Команда используется в основном для отмены изменений.
 ---

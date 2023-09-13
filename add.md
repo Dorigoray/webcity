@@ -1,6 +1,6 @@
 [Contents](./readme.md)
 ---
-## git add
+## **git add**
 
 ## git add *[file]* - добавляет файл в индекс.
 
