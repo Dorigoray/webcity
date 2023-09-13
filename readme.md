@@ -7,7 +7,7 @@ LICENSE: [MIT](license.md)
 
 ---
 ### Contents:
-1. <span style="color:black">[git add](./add.md)</span>
+1. [git add](./add.md)
 2. [git push](./push.md) 
 3. [git status](./status.md)
 4. [git rm](./rm.md)
@@ -19,5 +19,7 @@ LICENSE: [MIT](license.md)
 10. [git log](./log.md)
 
 
-Jason Long. http://git-scm.com/downloads/logos,
-license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+
+                                                                    Jason Long. http://git-scm.com/downloads/logos,
+                                                                    license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
