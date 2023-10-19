@@ -11,7 +11,7 @@ consolelog.addEventListener('click',() => {
 alert('метод для ввода сообщения в консоль');
 });
 mAlert.addEventListener('click',() => {
-alert('метод для отображения информации пользователям ');
+alert('метод для отображения информации пользователю ');
 });
 mPrompt.addEventListener('click',() => {
 alert('метод для отображения диалогового окна с запросом на ввод текста');
@@ -21,8 +21,8 @@ alert('метод для отображения диалогового окна 
 console.log('запись в консоле');
  })
  Primer2.addEventListener('click',() => {
-    alert('Вот так работает метод!!!!');
+    alert('Вот так работает метод!');
 })    
  Primer3.addEventListener('click',() => {
-    prompt('Запишите хоть-что');
+    prompt('Введите хоть-что');
 })    
